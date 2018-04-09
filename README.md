@@ -92,7 +92,7 @@ Al hacer una instancia del  traductor, le tenemos que pasar una serie de paráme
 | Parámetro|  Descripción |
 |---|---|
 | Objeto |  El objeto con el que se va a traducir la web |
-| Por defecto|  El idioma por defecto que se va a utilizar |
+| Idioma por defecto |  El idioma por defecto que se va a utilizar |
 | Modo|  El modo nos permite trabajar con archivos json. **Actualmente en desarrollo**  utiliza 0|
 
 
