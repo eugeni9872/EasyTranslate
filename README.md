@@ -100,11 +100,12 @@ Al hacer una instancia del  traductor, le tenemos que pasar una serie de paráme
 
 Tenemos una serie de métodos que nos permiten cambiar los el comportamiento del traductor.
 
-| Método|  Descripción | Resultado|
-|---|---|---|
-| **setDefaultLang**|  Nos permite cambiar el idioma por defecto | void
-| **changeLang**|  Se encarga de cambiar el idioma de la página web.  | void
-| **checkIndex**|  Devuelve true si el idioma que pasamos existe en el objeto.  | **true-false**
+| Método|  Descripción | Parámetro| Resultado
+|---|---|---|---|
+| **setDefaultLang**|  Nos permite cambiar el idioma por defecto | idioma | void
+| **changeLang**|  Se encarga de cambiar el idioma de la página web.  | idioma| void
+| **checkIndex**|  Devuelve true si el idioma que pasamos existe en el objeto.  | idioma|**true-false**
+
 
 
 ## Licencia
